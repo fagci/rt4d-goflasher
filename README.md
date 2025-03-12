@@ -19,3 +19,7 @@ Flashing firmware...
 Writing 100% |████████████████████████████████████████| (8.9 kB/s)          
 Flashing completed successfully!
 ```
+
+# Thanks to
+
+@DeepSeek Chat for help =)
